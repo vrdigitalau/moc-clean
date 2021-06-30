@@ -1,0 +1,16 @@
+{
+   "expo": {
+    "name": "moc-clean",
+    "icon": "./path/to/your/app-icon.png",
+    "version": "1.0.0",
+    "slug": "moc-clean",
+    "ios": {
+      "bundleIdentifier": "moc-clean",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "moc-clean",
+      "versionCode": 1
+    }
+   }
+ }
